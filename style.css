@@ -1,0 +1,17 @@
+body {
+background-color: rgb(191, 254, 255);
+
+color: rgb(11, 202, 202);
+
+font-size: medium;
+
+font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+h1 {
+    color:rgb(61, 166, 170)
+}
+a { 
+    color: darkslategrey;
+    text-decoration: double; /*faz o sublinhado do link sumir*/
+}
